@@ -9,3 +9,4 @@ install:
 -sxhkd
 -rofi
 -polybar
+-feh
